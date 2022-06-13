@@ -1,0 +1,13 @@
+.gettingStartedHeading::before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 65px;
+	right: 65px;
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+    z-index: -1;
+    background: linear-gradient(to right, #f6d365 0%, #fda085 100%);
+    
+}
